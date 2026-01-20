@@ -1,0 +1,3 @@
+baris 1 halo
+baris 2 haloo
+baris 3 halooo
